@@ -3,7 +3,6 @@
 # Name: Ajay Karthick M
 # Date: 04/11/2026
 
-
 # AIM:
 To develop the Library Management System using Star UML
 
@@ -101,17 +100,11 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
 <img width="1069" height="864" alt="Screenshot 2026-08-19 082523" src="https://github.com/user-attachments/assets/668e7dc6-b562-4502-a0ff-6a8fa67ea848" />
-
-
 
 # SEQUENCE DIAGRAM
 
-A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
-
-a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
-
+A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
@@ -123,11 +116,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
 <img width="1089" height="862" alt="Screenshot 2026-08-19 082607" src="https://github.com/user-attachments/assets/c0dafe8d-1259-47b5-b4f8-7a511d922857" />
-
-
-
 
 # RESULT
 
